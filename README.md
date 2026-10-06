@@ -5,7 +5,6 @@
 I'm a Software Engineering undergraduate passionate about building modern and practical software solutions.
 
 - 🎓 Software Engineering Undergraduate
-- 💻 Interested in Full-Stack Development
 - 🌐 Interested in Web & Mobile Application Development
 - 🌱 Currently improving my programming and software development skills
 - 🚀 Interested in learning new technologies and building real-world projects
