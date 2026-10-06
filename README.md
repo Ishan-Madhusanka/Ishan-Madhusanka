@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm H A I madhusanka 
 
-<!--
-**Ishan-Madhusanka/Ishan-Madhusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineering undergraduate passionate about building modern and practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Undergraduate
+- 💻 Interested in Full-Stack Development
+- 🌐 Interested in Web & Mobile Application Development
+- 🌱 Currently improving my programming and software development skills
+- 🚀 Interested in learning new technologies and building real-world projects
+- 🤝 Open to collaborating on software development projects
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: Java, JavaScript, C, C++
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express.js
+- Database: MySQL, MongoDB, Firebase
+- Tools: Git, GitHub, VS Code
+
+## 📫 Connect With Me
+
+- 📍 Sri Lanka
+- 💼 LinkedIn: Coming Soon
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
